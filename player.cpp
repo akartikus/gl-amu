@@ -146,7 +146,7 @@ void Player::moveLeft(){
 void Player::moveRight(){
     //Sauver positions avant collision
     int pX = x();
-    int pY = y();
+
 
     if(pos().x() < scene()->width()- rect().width() - 5){
         setPos(x()+5,y());
