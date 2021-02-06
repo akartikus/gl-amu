@@ -1,3 +1,3 @@
 # gl-amu
 An academic Software Engeenering project. 
-Pacman game in Cpp with Qt
+Pacman look like game in Cpp with Qt
